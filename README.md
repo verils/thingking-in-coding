@@ -1,2 +1,1 @@
-# thingking-in-coding
-Thoughts of development
+# Thingking In Coding

@@ -9,3 +9,8 @@ Fu[bleep] the bad code
 #### [2020-03-31] Single Implementation of Service
 
 如果`Service`只有一个实现`ServiceImpl`，那么设计接口是多余的
+
+#### [2020-04-08] rough usage of relation database
+
+不合时宜的使用关系型数据库是带来恶心复杂度的关键
+

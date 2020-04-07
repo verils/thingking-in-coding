@@ -8,7 +8,7 @@ Fu[bleep] the bad code
 
 #### [2020-03-31] Single Implementation of Service
 
-如果`Service`只有一个实现`ServiceImpl`，那么设计接口是多余的
+如果接口`Service`只有一个实现`ServiceImpl`，那么接口是多余的
 
 #### [2020-04-08] rough usage of relation database
 

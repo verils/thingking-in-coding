@@ -17,7 +17,3 @@ F[bleep]k the bad code
 #### [2020-04-08] More Than Redundant
 
 一款精致小巧的网页端编辑器，大部分情况要下比Web IDE高效得多
-
-#### [2020-04-13] More Than Redundant
-
-一款精致小巧的网页端编辑器，大部分情况要下比Web IDE高效得多

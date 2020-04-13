@@ -16,4 +16,4 @@ Fu[bleep] the bad code
 
 #### [2020-04-08] mreo than redundant
 
-一款精致小巧的网页端编辑器，比所谓的IDE可好多了
+一款精致小巧的网页端编辑器，大部分情况要下比Web IDE高效得多

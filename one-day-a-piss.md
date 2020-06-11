@@ -1,6 +1,6 @@
 # one day a piss
 
-F[bleep]k the bad code
+Fuck the shit code
 
 #### [2020-03-27] Controller-Service-Dao？
 
@@ -17,3 +17,7 @@ F[bleep]k the bad code
 #### [2020-04-08] More Than Redundant
 
 一款精致小巧的网页端编辑器，大部分情况要下比Web IDE高效得多
+
+#### [2020-06-12] Nothing's better than what I've done
+
+对代码的蜜汁自信大部分源于对代码的熟悉程度。不信？那就放码过来

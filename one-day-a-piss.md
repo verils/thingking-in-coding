@@ -20,7 +20,7 @@ Fuck the shit code
 
 #### [2020-06-12] Nothing's better than what I've done
 
-对代码的蜜汁自信大部分源于对代码的熟悉程度。不信？那就放码过来
+对代码的蜜汁自信大部分源于对代码的熟悉程度
 
 #### [2020-07-14] Code for Humanity
 

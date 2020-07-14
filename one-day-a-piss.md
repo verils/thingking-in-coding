@@ -21,3 +21,7 @@ Fuck the shit code
 #### [2020-06-12] Nothing's better than what I've done
 
 对代码的蜜汁自信大部分源于对代码的熟悉程度。不信？那就放码过来
+
+#### [2020-07-14] Code for Humanity
+
+精准优雅的代码源于人性，而丑陋肮脏的代码同样源于人性。前者是理解，后者是顺从

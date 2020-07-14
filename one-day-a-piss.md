@@ -16,7 +16,7 @@ Fuck the shit code
 
 #### [2020-04-08] More Than Redundant
 
-一款精致小巧的网页端编辑器，大部分情况要下比Web IDE高效得多
+一款精致小巧的网页端编辑器要下比Web IDE高效得多
 
 #### [2020-06-12] Nothing's better than what I've done
 

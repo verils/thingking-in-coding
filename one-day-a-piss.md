@@ -1,4 +1,4 @@
-# one day a piss
+# One Day a Piss
 
 Fuck the shit code
 
@@ -25,3 +25,7 @@ Fuck the shit code
 #### [2020-07-14] Code for Humanity
 
 精准优雅的代码源于人性，而丑陋肮脏的代码同样源于人性。前者是理解，后者是顺从
+
+#### [2020-08-18] Never work on useless things
+
+以参加任何非创造性工作为耻

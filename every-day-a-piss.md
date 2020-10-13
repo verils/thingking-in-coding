@@ -1,4 +1,4 @@
-# One Day a Piss
+# Every Day a Piss
 
 Fuck the shit code
 

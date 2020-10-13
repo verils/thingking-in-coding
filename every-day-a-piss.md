@@ -29,3 +29,7 @@ Fuck the shit code
 #### [2020-08-18] Never work on useless things
 
 以参加任何非创造性工作为耻
+
+#### [2020-10-13] Fuck the prototype
+
+面向原型的开发不是真正的软件开发

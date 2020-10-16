@@ -1,4 +1,4 @@
-# Every Day a Piss
+# Criticisms
 
 Fuck the shit code
 

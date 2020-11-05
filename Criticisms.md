@@ -33,3 +33,6 @@ Fuck the shit code
 #### [2020-10-13] Fuck the prototype
 
 面向原型的开发不是真正的软件开发
+
+#### [2020-11-05] LibreOffice is slow shit
+

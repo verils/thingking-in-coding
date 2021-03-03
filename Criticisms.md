@@ -36,3 +36,6 @@ Fuck the shit code
 
 #### [2020-11-05] LibreOffice is slow shit
 
+#### [2021-03-03] Business is program behaviors composing
+
+

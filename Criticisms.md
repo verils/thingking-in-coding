@@ -38,4 +38,4 @@ Fuck the shit code
 
 #### [2021-03-03] Business is just program behaviors composing
 
-
+“业务”在编程里就是对程序的行为进行编排，仅此而已

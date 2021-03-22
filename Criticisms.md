@@ -39,3 +39,7 @@ Fuck the shit code
 #### [2021-03-03] Business is just program behaviors composing
 
 “业务”在编程里就是对程序的行为进行编排，仅此而已
+
+#### [2021-03-22] FastDFS is stupid shit
+
+程序员们真的没有选择只能用它吗?

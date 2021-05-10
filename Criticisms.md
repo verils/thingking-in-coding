@@ -10,7 +10,7 @@ Fuck the shit code
 
 如果接口`Service`只有一个实现`ServiceImpl`，那么接口是多余的
 
-#### [2020-04-08] Rough Ssage of Relation Database
+#### [2020-04-08] Rough usage of Relation Database
 
 不合时宜的使用关系型数据库是带来恶心复杂度的关键，比如给图的各个子部分或属性强行安排关联关系
 

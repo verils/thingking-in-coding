@@ -55,3 +55,7 @@ Fuck the shit code
 
 
 **敏捷是一种思想，我对它的判别标准是：你有想法，你敢花多少努力去实现它**
+
+#### [2021-05-19] Don't be a Accident Driven Development expert
+
+用最大契合度的思维去考虑需求，让任何野路子都有路可走。不要成为事故驱动开发的专家

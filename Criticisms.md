@@ -58,4 +58,4 @@ Fuck the shit code
 
 #### [2021-05-19] Don't be a Accident Driven Development expert
 
-用最大契合度的思维去考虑需求，让任何野路子都有路可走。不要成为事故驱动开发的专家
+用最大契合度的思维去考虑需求，让任何野路子都有路可走。避免成为事故驱动开发的专家

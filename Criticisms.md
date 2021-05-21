@@ -59,3 +59,14 @@ Fuck the shit code
 #### [2021-05-19] Don't be a Accident Driven Development expert
 
 用最大契合度的思维去考虑需求，让任何野路子都有路可走。避免成为事故驱动开发的专家
+
+#### [2021-05-21] Never fuck with Openresty
+
+当你开始修改Openresty项目，就会陷入无止境的：
+
+- “这下肯定好了”
+- “不对，怎么还有问题”
+- “一定是这样子”
+- “这下肯定好了”
+- “不对，...”
+- ...

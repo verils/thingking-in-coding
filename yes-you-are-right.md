@@ -66,3 +66,9 @@
 - “这下肯定好了”
 - “不对，...”
 - ...
+
+## [2021-05-25] I want to write Go
+
+这个世界上少了一个优秀的Go工程师
+
+I got a whole of mother fucker Java work
